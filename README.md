@@ -71,35 +71,3 @@ Data duplikat
 Jumlah baris dan kolom
 Tipe data
 Hasil akhir dataset
-Struktur Repository
-Data-Cleansing-Pemegang-Saham/
-│
-├── 2418045dataCleansing.ipynb
-├── data_pemegang_saham_1persen_31juli2026.xlsx
-├── data_pemegang_saham_1persen_clean.xlsx
-└── README.md
-Keterangan File
-File	Keterangan
-2418045dataCleansing.ipynb	Notebook Google Colab yang berisi proses data cleansing menggunakan Python
-data_pemegang_saham_1persen_31juli2026.xlsx	Dataset awal sebelum dilakukan cleansing
-data_pemegang_saham_1persen_clean.xlsx	Dataset setelah proses cleansing
-README.md	Dokumentasi project
-Teknologi yang Digunakan
-Python
-Pandas
-NumPy
-Google Colab
-Microsoft Excel
-Link Project
-Google Colab
-
-Hasil
-
-Setelah dilakukan proses data cleansing, dataset menjadi lebih:
-
-Konsisten dalam format dan penulisan
-Rapi dari sisi struktur data
-Bersih dari data duplikat
-Lebih lengkap setelah proses data enrichment
-Siap digunakan untuk proses analisis selanjutnya
-Identitas
