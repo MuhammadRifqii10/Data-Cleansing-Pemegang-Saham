@@ -29,6 +29,7 @@ Nama kolom
 Tipe data
 Missing value
 Data duplikat
+
 2. Standarisasi Data
 
 Melakukan penyamaan format pada beberapa kolom, meliputi:
@@ -43,9 +44,9 @@ Data numerik
 PERCENTAGE
 
 Contoh standarisasi LOCAL_FOREIGN:
-
 L → LOCAL
 F → FOREIGN
+
 3. Penanganan Missing Value
 
 Mengidentifikasi dan menangani nilai kosong pada dataset berdasarkan jenis kolomnya.
